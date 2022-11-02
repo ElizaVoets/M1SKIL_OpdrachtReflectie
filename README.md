@@ -11,7 +11,7 @@
   * Ik had al over GitHub gehoord
   * Ik wist al een beetje wat de command prompt was
 * Waarvan zou ik nogmeer willen weten?:
-  Eigenlijk niks. Ik heb veel geleerd
+  * Eigenlijk niks. Ik heb veel geleerd
 
 ## Ken Koorn
 
@@ -23,13 +23,11 @@ Waarvan zou ik meer willen weten : Ik zou meer willen weten over alle 2 de dinge
 
 ## Mika Waterman
 
-Geleerd:
-Hoe ik met github en cmd kan werken. ik heb geleerd hoe ik clone, push en commit.  gaat handig zijn in de toekomst met samenwerken.
+* Geleerd:
+  * Hoe ik met github en cmd kan werken. ik heb geleerd hoe ik clone, push en commit.  gaat handig zijn in de toekomst met samenwerken.
 
+* wat ik wist:
+  * Helemaal niks, Deze lessen waren mijn introductie tot github. 
 
-wat ik wist:
-Helemaal niks, Deze lessen waren mijn introductie tot github. 
-
-
-waar ik meer van wil weten:
-wil meer snappen van cmd en github, heel interresant maar moeilijk. 
+* waar ik meer van wil weten:
+  * wil meer snappen van cmd en github, heel interresant maar moeilijk. 
