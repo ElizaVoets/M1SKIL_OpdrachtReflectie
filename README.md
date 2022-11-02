@@ -31,3 +31,14 @@ Waarvan zou ik meer willen weten : Ik zou meer willen weten over alle 2 de dinge
 
 * waar ik meer van wil weten:
   * wil meer snappen van cmd en github, heel interresant maar moeilijk. 
+
+## florian
+
+* Geleerd:
+  * niks
+
+* wat ik wist:
+  * niks
+
+* waar ik meer van wil weten:
+  * meer
