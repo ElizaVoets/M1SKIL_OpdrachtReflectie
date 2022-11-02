@@ -1,6 +1,19 @@
-# M1SKIL_OpdrachtReflectie
+# Opdracht reflectie
 
-Ken Koorn
+## Eliza Voets
+
+* Wat heb ik met deze lessen nieuw geleerd?:
+  * Wat git is
+  * Hoe git werkt
+  * waarvoor ik git kan gebruiken
+  * Hoe ik een repository maak op GitHub
+* Wat wist ik al
+  * Ik had al over GitHub gehoord
+  * Ik wist al een beetje wat de command prompt was
+* Waarvan zou ik nogmeer willen weten?:
+  Eigenlijk niks. Ik heb veel geleerd
+
+## Ken Koorn
 
 Wat heb ik met deze lessen wat nieuwes geleerd : Ik heb via deze lessen geleerd hoe je vooral met github en CMD moest werken. Het wasas heel leerzaam en ik ga het zeker weten hiermee werken in de future.
 
